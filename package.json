@@ -23,7 +23,7 @@
     "url": "git+https://github.com/sybboy2017/vueadmin.git"
   },
   "bugs": {
-    "url": "https://github.com/PanJiaChen/vue-element-admin/issues"
+    "url": "https://github.com/sybboy2017/vueadmin/issues"
   },
   "dependencies": {
     "axios": "0.17.1",
