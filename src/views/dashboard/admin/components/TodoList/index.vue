@@ -41,10 +41,10 @@ const filters = {
   completed: todos => todos.filter(todo => todo.done)
 }
 const defalutList = [
-  { text: 'star this repository', done: false },
-  { text: 'fork this repository', done: false },
-  { text: 'follow author', done: false },
-  { text: 'vue-element-admin', done: true },
+  { text: 'sta232432r this repository', done: false },
+  { text: 'fork 4234324this repository', done: false },
+  { text: 'foll324324ow author', done: false },
+  { text: 'vue3243-element-admin', done: true },
   { text: 'vue', done: true },
   { text: 'element-ui', done: true },
   { text: 'axios', done: true },
