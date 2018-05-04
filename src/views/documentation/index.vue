@@ -14,10 +14,10 @@ export default {
   data() {
     return {
       articleList: [
-        { title: '基础323篇', href: 'https://segmentfault.com/a/1190000009275424' },
-        { title: '登录3232权限篇', href: 'https://segmentfault.com/a/1190000009506097' },
+        { title: '基23232础323篇', href: 'https://segmentfault.com/a/1190000009275424' },
+        { title: '登2323录33232权限篇', href: 'https://segmentfault.com/a/1190000009506097' },
         { title: '实战32323篇', href: 'https://segmentfault.com/a/1190000009762198' },
-        { title: 'vueAdmin-template 篇', href: 'https://segmentfault.com/a/1190000010043013' },
+        { title: 'vu323eAdmin-template 篇', href: 'https://segmentfault.com/a/1190000010043013' },
         { title: '自行封装 component', href: 'https://segmentfault.com/a/1190000009090836' },
         { title: '优雅的使用 icon', href: 'https://segmentfault.com/a/1190000012213278' }
       ]
